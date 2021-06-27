@@ -23,18 +23,15 @@ then start the kermit's brain by typing:
 ```javascript
 Yourname = Kermit(data,random_sead)
 ```
-***data structure : should be N * M that N = trials and M = features.***  
-***random_sead: a number for reproduce results.***  
 Now you can implement your pipeline with different functions!(See table below for more details)
 Here's all of Kermit's brain functions:
 |   Name |      Class / Function      |  Parameters  |   Definitions |
 |:---: |:-------------:|:---: |:---:|
 | Kermit |  Class | database,random sead |data structure : should be N * M that N = trials and M = features. random_sead: a number for reproduce results |
-| Normalize |    Function   |   -   |
-| PCA | Function |    data,n_component    |
-| ICA | Function |    data,n_component    |
-| FactorAnalysis | Function |    data,n_component    |
-| AE | Function |    data, batch_size, n_component, shuffle, num_workers     |
+| Normalize |    Function   |   -   |-|
+| PCA | Function |    data,n_component    |n_component: number of new feature dimension   |
+| FactorAnalysis | Function |    data,n_component    |n_component: number of new feature dimension   |
+| AE | Function |    data, batch_size, n_component, shuffle, num_workers     |batch_size: number of your batches(sample/steps), n_component: number of new feature imension, shuffle: True or False, num_workers: parallel processing(0,1,2)|
 | KNN | Function |    data, k_max_number     |
 
 n_component: number of new feature dimension   
