@@ -31,18 +31,18 @@ Here's all of Kermit's brain functions:
 | Normalize |    Function   |   -   |-|
 | PCA | Function |    data,n_component    |n_component: number of new feature dimension   |
 | FactorAnalysis | Function |    data,n_component    |n_component: number of new feature dimension   |
-| AE | Function |    data, batch_size, n_component, shuffle, num_workers     |batch_size: number of your batches(sample/steps),  
-n_component: number of new feature imension, shuffle: True or False, num_workers: parallel processing(0,1,2)|
-| KNN | Function |    data, k_max_number     |
-
-n_component: number of new feature dimension   
-n_component: number of new feature dimension   
-
+| AE | Function |    data, batch_size, n_component, shuffle, num_workers     |batch_size: number of your batches(sample/steps), n_component: number of new feature imension, shuffle: True or False, num_workers: parallel processing(0,1,2)|
+| KNN | Function |    data, k_max_number     |k_max_number: number of starting clusters for test(read more detail below)|
 **After** aplying your functions by starting the K-NN function:
 ```javascript
 Yourname.KNN(data,K_max_number)
 ```
 you can see how many neuron do you have in your data!
+* k_max_number: this functions contains from 2 part:  
+  * i) K-NN alghorithm that test different Clustering with testing along your k_max_number 
+  * ii) Error alghorithm that measure different distance between group centeroid and each member of group, at the end the best fitted Clusterd data will select and you can see number of neurons
+
+
 
 
 
