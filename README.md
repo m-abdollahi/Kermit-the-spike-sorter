@@ -4,7 +4,7 @@ recently, for improve his resume, he works for free to **sort spikes** in your *
 
 > "Just because you haven't found your talent yet doesn't mean you don't have one."
 > -Kermit the Frog
-<img src="https://imgs.smoothradio.com/images/224735?width=2001&crop=16_9&signature=HYi0DRkOL9-KYx1njHQ5R1TzQeY=" alt="alt text" width="100" height="200">
+<img src="https://imgs.smoothradio.com/images/224735?width=2001&crop=16_9&signature=HYi0DRkOL9-KYx1njHQ5R1TzQeY=" alt="alt text" width="100" height="200"> salam
 
 # Kermit abilities ?
 Kermit has lots of abilities, here you can see all of them:
