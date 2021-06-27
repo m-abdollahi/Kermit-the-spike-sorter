@@ -29,8 +29,7 @@ Now you can implement your pipeline with different functions!(See table below fo
 Here's all of Kermit's brain functions:
 |   Name |      Class / Function      |  Parameters  |   Definitions |
 |:---: |:-------------:|:---: |:---:|
-| Kermit |  Class | database,random sead |***data structure : should be N * M that N = trials and M = features.***  
-***random_sead: a number for reproduce results.***  |
+| Kermit |  Class | database,random sead |data structure : should be N * M that N = trials and M = features. random_sead: a number for reproduce results |
 | Normalize |    Function   |   -   |
 | PCA | Function |    data,n_component    |
 | ICA | Function |    data,n_component    |
