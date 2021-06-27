@@ -23,8 +23,9 @@ then start the kermit's brain by typing:
 ```javascript
 Yourname = Kermit(data,random_sead)
 ```
-***data structure : should be N * M that N = trials and M = features.
-***random_sead: a number for reproduce results.
+***data structure : should be N * M that N = trials and M = features.***
+
+***random_sead: a number for reproduce results.***
 
 Here's all of Kermit's brain functions:
 |   Name |      Class / Function      |  Parameters  |
