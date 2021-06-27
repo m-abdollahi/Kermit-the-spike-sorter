@@ -6,9 +6,11 @@ recently, for improve his resume, he works for free to **sort spikes** in your *
 > -Kermit the Frog
 # How Kermit works ?
 Kermit has lots of abilities, here you can see all of them(till now!):
+* **Normalizing:**
+  *  Min-Max Scalar
 * **Dimensionality reduction:**
-  *  Principal Component Analyse
-  *  Fast Independent Analyse
+  *  Principal Component Analysis
+  *  Fast Independent Analysis
   *  AutoEncoder
   *  Factor Analysis 
 * **Clustering:**
