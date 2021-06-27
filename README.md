@@ -1,6 +1,6 @@
 # Kermit the Spike Sorter!
 After his great performance in the Muppet Show, Kermit decided to change his major to Computational Neuroscience!
-recently, for improve his resume, he works for free to **sort spikes** in your **waveform (LFP) data**!
+recently, for improve his resume, he works for free to **sort spikes** in your **waveform (LFP) data**!:green_heart:
 
 > "Just because you haven't found your talent yet doesn't mean you don't have one."
 > -Kermit the Frog
