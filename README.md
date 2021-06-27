@@ -18,6 +18,5 @@ Kermit has lots of abilities, here you can see all of them(till now!):
 
 
 
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+
 
