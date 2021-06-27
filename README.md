@@ -19,11 +19,18 @@ Kermit has lots of abilities, here you can see all of them:
 # How Kermit works ?
 Kermitsbrain is an object oriented program(Check the Manual with sample data)
 Here's all of Kermit's brain functions:
-|   Name |      Class / Function      |  Parameters |
+|   Name |      Class / Function      |  Parameters  |
 |----------|:-------------:|------:|
 | Kermit |  Class | database,random sead |
-| Normalize |    Function   |   - |
-| PCA | Function |    data,n_component |
+| Normalize |    Function   |   -   |
+| PCA | Function |    data,n_component    |
+| ICA | Function |    data,n_component    |
+| FactorAnalysis | Function |    data,n_component    |
+| AE | Function |    data, batch_size, n_component, shuffle, num_workers     |
+| KNN | Function |    data, k_max_number     |
+
+
+
 
 
 
