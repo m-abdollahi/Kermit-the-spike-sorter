@@ -27,9 +27,10 @@ Yourname = Kermit(data,random_sead)
 ***random_sead: a number for reproduce results.***  
 Now you can implement your pipeline with different functions!(See table below for more details)
 Here's all of Kermit's brain functions:
-|   Name |      Class / Function      |  Parameters  |
-|:---: |:-------------:|:---: |
-| Kermit |  Class | database,random sead |
+|   Name |      Class / Function      |  Parameters  |   Definitions |
+|:---: |:-------------:|:---: |:---:|
+| Kermit |  Class | database,random sead |***data structure : should be N * M that N = trials and M = features.***  
+***random_sead: a number for reproduce results.***  |
 | Normalize |    Function   |   -   |
 | PCA | Function |    data,n_component    |
 | ICA | Function |    data,n_component    |
@@ -37,7 +38,14 @@ Here's all of Kermit's brain functions:
 | AE | Function |    data, batch_size, n_component, shuffle, num_workers     |
 | KNN | Function |    data, k_max_number     |
 
+n_component: number of new feature dimension   
+n_component: number of new feature dimension   
 
+**After** aplying your functions by starting the K-NN function:
+```javascript
+Yourname.KNN(data,K_max_number)
+```
+you can see how many neuron do you have in your data!
 
 
 
