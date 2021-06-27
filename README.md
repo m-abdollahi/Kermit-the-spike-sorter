@@ -32,7 +32,8 @@ Here's all of Kermit's brain functions:
 | PCA | Function |    data,n_component    |n_component: number of new feature dimension   |
 | FactorAnalysis | Function |    data,n_component    |n_component: number of new feature dimension   |
 | AE | Function |    data, batch_size, n_component, shuffle, num_workers     |batch_size: number of your batches(sample/steps), n_component: number of new feature imension, shuffle: True or False, num_workers: parallel processing(0,1,2)|
-| KNN | Function |    data, k_max_number     |k_max_number: number of starting clusters for test(read more detail below)|
+| KNN | Function |    data, k_max_number     |k_max_number: number of starting clusters for test(read more detail below)|  
+
 **After** aplying your functions by starting the K-NN function:
 ```javascript
 Yourname.KNN(data,K_max_number)
