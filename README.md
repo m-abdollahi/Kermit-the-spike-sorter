@@ -17,7 +17,13 @@ Kermit has lots of abilities, here you can see all of them:
 * **Clustering:**
   * k-nearest neighbor
 # How Kermit works ?
-
+Kermitsbrain is an object oriented program(Check the Manual with sample data)
+Here's all of Kermit's brain functions:
+|   Name |      Class / Function      |  Parameters |
+|----------|:-------------:|------:|
+| Kermit |  Class | database,random sead |
+| Normalize |    Function   |   - |
+| PCA | Function |    data,n_component |
 
 
 
