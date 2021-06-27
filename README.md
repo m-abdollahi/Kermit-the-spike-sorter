@@ -7,6 +7,7 @@ recently, for improve his resume, he works for free to **sort spikes** in your *
 <p align="center">
 <img src="https://imgs.smoothradio.com/images/224735?width=2001&crop=16_9&signature=HYi0DRkOL9-KYx1njHQ5R1TzQeY=" alt="alt text" width="500" height="300">
 </p>
+
 # Kermit abilities ?
 Kermit has lots of abilities, here you can see all of them:
 ***He will learn more!***
