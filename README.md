@@ -4,8 +4,9 @@ recently, for improve his resume, he works for free to **sort spikes** in your *
 
 > "Just because you haven't found your talent yet doesn't mean you don't have one."
 > -Kermit the Frog
-# How Kermit works ?
-Kermit has lots of abilities, here you can see all of them(till now!):
+# Kermit abilities ?
+Kermit has lots of abilities, here you can see all of them:
+***He will learn more!***
 * **Normalizing:**
   *  Min-Max Scalar
 * **Dimensionality reduction:**
@@ -15,7 +16,7 @@ Kermit has lots of abilities, here you can see all of them(till now!):
   *  Factor Analysis 
 * **Clustering:**
   * k-nearest neighbor
-
+# How Kermit works ?
 
 
 
