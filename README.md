@@ -48,7 +48,7 @@ you can see how many neurons do you have in your data!
   * ii) Error alghorithm that measure different distance between group centeroid and each member of group, at the end the best fitted Clusterd data will select and you can see number of neurons
 
 **that's all, hope you enjoy and i wish it be useful**:sparkling_heart:  
-site 
+ 
 
 
 
