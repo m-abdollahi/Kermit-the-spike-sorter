@@ -23,7 +23,7 @@ class Kermit():
         self.datafactoranalysis = FactorAnalysis(n_components=n_component,random_state=self.random_sead)
         return self.datafactoranalysis.fit_transform(data)
     
-    def AE(self,data,batch_size,n_component,shuffle=True,num_workers=0):
+    def AE(self,data,batch_size,shuffle=True,num_workers=0):
             self.features = []
             self.outputs = []
             print("Creating Datasets...")
